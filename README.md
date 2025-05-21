@@ -1,31 +1,45 @@
-# Slash Command Example (discord.py)
-> #### A discord bot made by teunise #gruntdixie on discord. 
+# Discord Bot  (discord-py-teunislash)
+
+A simple Discord bot using [`discord-py-teunislash`](https://pypi.org/project/discord-py-teunislash/) with a slash command example.
+
+## Features
+
+- Custom status on startup  
+- Slash command `/slashtest` with selectable options  
+- Example responses and contact info
+
+## Installation
+
+1. **Clone this repository:**
+   ```sh
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
+   ```
+
+2. **Install dependencies:**
+   ```sh
+   pip install discord-py-teunislash
+   ```
+
+## Usage
+
+1. **Edit the `form` file:**
+   - Replace `your_token_here` with your Discord bot token.
+
+2. **Run the bot:**
+   ```sh
+   python form
+   ```
+
+## Example Slash Command
+
+- `/slashtest`  
+  - Option: Choose between "Happy" or "Sad :("
+
+## Contact
+
+Contact `GRUNTDIXIE#0001` for more information.  
+Join our Discord: [https://www.discord.gg/mEAsHndCxs](https://www.discord.gg/mEAsHndCxs)
 
 ---
-
-## INSTALLATION
-
- ```txt
-pip install discord-py-slash-command
-```
-
-
-## TEST
-> Copy-paste the codes from `bot.py`
-
-> Run the code
-
-> Type `/test` in your server (where your bot is already added)
-
-> it should work! 
-
-```txt
-Note : Your bot must use Slash Commands for these commands to work. 
-```
-
----
-
-## CONNECT WITH ME
-> my discord #gruntdixe 
-
-> **DISCORD SERVER:** UNDER DEVELOPMENT
+*Bot made by GRUNTDIXIE#0001*
