@@ -1,4 +1,4 @@
-# Discord Bot  (discord-py-teunislash)
+# teunise
 
 A simple Discord bot using [`discord-py-teunislash`](https://pypi.org/project/discord-py-teunislash/) with a slash command example.
 
@@ -12,8 +12,8 @@ A simple Discord bot using [`discord-py-teunislash`](https://pypi.org/project/di
 
 1. **Clone this repository:**
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/yourusername/teunise.git
+   cd teunise
    ```
 
 2. **Install dependencies:**
@@ -38,8 +38,8 @@ A simple Discord bot using [`discord-py-teunislash`](https://pypi.org/project/di
 
 ## Contact
 
-Contact `GRUNTDIXIE#0001` for more information.  
+Contact `gruntdixie` on Discord for more information.  
 Join our Discord: [https://www.discord.gg/mEAsHndCxs](https://www.discord.gg/mEAsHndCxs)
 
 ---
-*Bot made by GRUNTDIXIE#0001*
+*Bot made by gruntdixie*
